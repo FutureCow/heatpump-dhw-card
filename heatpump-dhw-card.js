@@ -17,7 +17,7 @@
  *   solar_switch: switch.dhw_solar_mode
  *   price_switch: switch.dhw_price_mode
  *   boost_switch: switch.dhw_boost_mode
- *   vacation_switch: switch.dhw_vacation_mode
+ *   vacation_switch: switch.dhw_on_vacation
  *   legionella_switch: switch.dhw_legionella_mode
  *   manual_switch: switch.dhw_manual_mode   # grote aan/uit knop bovenaan
  */
